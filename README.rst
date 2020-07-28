@@ -15,12 +15,9 @@ Turing Institute (DSSGx) 2020.
 
 You'll learn about:
 
-* How to tell apart different learning time series learning problems (or
-tasks) that arise in a temporal data setting,
+* How to tell apart different learning time series learning problems (or tasks) that arise in a temporal data setting,
 * How to do exploratory data analysis for time series,
-* How to build machine learning models to solve these tasks (using `sktime
-<https://github.com/alan-turing-institute/sktime>`_ and other Python
-toolboxes),
+* How to build machine learning models to solve these tasks (using `sktime <https://github.com/alan-turing-institute/sktime>`_ and other Python toolboxes),
 
 We assume familiarity with the standard tabular machine learning setting
 covered by `scikit-learn <https://scikit-learn.org/stable/>`_, but no prior
@@ -37,7 +34,7 @@ a working Python installation (e.g. `Anaconda distribution <https://docs.anacond
 
 Feedback
 --------
-Feedback is highly appreciated. If we've found an error, if we've missed
+Feedback is highly appreciated. If you've found an error, if we've missed
 anything or if you want to suggest something new, please `raise an issue
 <https://github.com/mloning/intro-to-ml-with-time-series-DSSGx-2020/issues/new
 /choose>`_.
