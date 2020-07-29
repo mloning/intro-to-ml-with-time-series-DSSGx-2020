@@ -1,9 +1,12 @@
 .. -*- mode: rst -*-
 
-|Binder|_
+|Binder|_ |Zenodo|_
 
 .. |binder| image:: https://mybinder.org/badge_logo.svg
 .. _Binder: https://mybinder.org/v2/gh/mloning/intro-to-ml-with-time-series-DSSGx-2020/master?filepath=notebooks
+
+.. |zenodo| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3965697.svg
+.. _Zenodo: https://doi.org/10.5281/zenodo.3965697
 
 
 Introduction to Machine Learning with Time Series
